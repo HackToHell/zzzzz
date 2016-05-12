@@ -4,3 +4,5 @@ SECRETS.txt
 *.pyc
 generated_graphs/
 log/
+names.json
+.idea/
